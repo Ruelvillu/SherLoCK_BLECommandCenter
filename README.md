@@ -127,6 +127,6 @@ SPDX-License-Identifier: MIT
 Copyright (c) 2025 Machi Reul
 ```
 
-## Citation (optional)
+## Citation
 
 If you use SherloCK in research or a product, please cite “Machi Reul — SherloCK: BLE Command Center (Nexus Mesh Edition)” or keep a link to this repository.
